@@ -13,23 +13,24 @@ I'm currently focused on deepening my expertise in quantitative credit risk, inc
 
 Languages & Querying 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"> Pyhton
 
-<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png> MySQL
+<img src='[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)'> SQL
 
-<img src= https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png> MSSQL
 
 Data Science & ML
 
-<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png> NumPy
+<img src='https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white'> NumPy
 
-<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png> Pandas
+<img src='[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)'> Pandas
+
+<img src='https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white'> Scikit-learn
 
 Geospatial
 
-<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qgis.png> Qgis
+<img src='https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white'> Qgis
 
-<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/google_earth_engine.png> GEA
+<img src='[https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/google_earth_engine.png](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square)'> GeoPandas
 
 
 📂 Featured Projects
