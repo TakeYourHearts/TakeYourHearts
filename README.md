@@ -13,7 +13,7 @@ I'm currently focused on deepening my expertise in quantitative credit risk, inc
 
 Languages & Querying 
 
-<img src=ttps://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 
 <img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png> MySQL
 
