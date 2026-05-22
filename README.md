@@ -78,16 +78,5 @@ End-to-end credit risk model following the full data science lifecycle — from 
 - 🔧 Next: WoE encoding, scorecard conversion, XGBoost benchmark
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TakeYourHearts&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakeYourHearts&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
   <i>"The best model is not the most complex — it's the one that can be understood, trusted, and used."</i>
 </p>
