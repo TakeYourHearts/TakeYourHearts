@@ -9,4 +9,36 @@ I'm currently focused on deepening my expertise in quantitative credit risk, inc
 
 🌱 Learning: AWS, Quant, interpretability, 
 
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png Pyhton
+🛠️ Tech Stack
+
+Languages & Querying 
+
+<img src=ttps://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png> Pyhton 
+
+<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png> MySQL
+
+<img src= https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png> MSSQL
+
+Data Science & ML
+
+<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png> NumPy
+
+<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png> Pandas
+
+Geospatial
+
+<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qgis.png> Qgis
+
+<img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/google_earth_engine.png> GEA
+
+
+📂 Featured Projects
+[Credit Risk with Logistic Regression](https://github.com/TakeYourHearts/Credit-Project-with-Logistic-Regression)
+
+End-to-end credit risk model following the full data science lifecycle — from business understanding to model evaluation.
+
+📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TakeYourHearts&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakeYourHearts&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
