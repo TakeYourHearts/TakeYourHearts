@@ -62,19 +62,6 @@ I'm currently focused on deepening my expertise in **quantitative credit risk**,
 
 ---
 
-## 💼 Experience
-
-**AL5 Amaggi** — *Geospatial Intern + Operations Support (Rural Credit)*
-- Geospatial analysis using QGIS and GeoPandas
-- Automation of data pipelines and document generation
-- Support to rural credit operations with BI dashboards in Power BI
-
-**Grupo AMAC** — *Fiscal Automation*
-- Automated fiscal processes using Python (PyAutoGUI) and REST APIs
-- Reduced manual work and improved process reliability
-
----
-
 ## 📂 Featured Projects
 
 ### 🏦 [Credit Risk with Logistic Regression](https://github.com/TakeYourHearts/Credit-Project-with-Logistic-Regression)
